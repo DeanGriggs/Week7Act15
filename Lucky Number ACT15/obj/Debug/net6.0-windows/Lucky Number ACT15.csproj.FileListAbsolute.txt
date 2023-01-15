@@ -1,0 +1,19 @@
+C:\dean\School\cst-150\cleaned up\Week 7\Lucky Number ACT15\Lucky Number ACT15\bin\Debug\net6.0-windows\Lucky Number ACT15.exe
+C:\dean\School\cst-150\cleaned up\Week 7\Lucky Number ACT15\Lucky Number ACT15\bin\Debug\net6.0-windows\Lucky Number ACT15.deps.json
+C:\dean\School\cst-150\cleaned up\Week 7\Lucky Number ACT15\Lucky Number ACT15\bin\Debug\net6.0-windows\Lucky Number ACT15.runtimeconfig.json
+C:\dean\School\cst-150\cleaned up\Week 7\Lucky Number ACT15\Lucky Number ACT15\bin\Debug\net6.0-windows\Lucky Number ACT15.dll
+C:\dean\School\cst-150\cleaned up\Week 7\Lucky Number ACT15\Lucky Number ACT15\bin\Debug\net6.0-windows\Lucky Number ACT15.pdb
+C:\dean\School\cst-150\cleaned up\Week 7\Lucky Number ACT15\Lucky Number ACT15\obj\Debug\net6.0-windows\Lucky Number ACT15.csproj.AssemblyReference.cache
+C:\dean\School\cst-150\cleaned up\Week 7\Lucky Number ACT15\Lucky Number ACT15\obj\Debug\net6.0-windows\Lucky_Number_ACT15.Form1.resources
+C:\dean\School\cst-150\cleaned up\Week 7\Lucky Number ACT15\Lucky Number ACT15\obj\Debug\net6.0-windows\Lucky Number ACT15.csproj.GenerateResource.cache
+C:\dean\School\cst-150\cleaned up\Week 7\Lucky Number ACT15\Lucky Number ACT15\obj\Debug\net6.0-windows\Lucky Number ACT15.GeneratedMSBuildEditorConfig.editorconfig
+C:\dean\School\cst-150\cleaned up\Week 7\Lucky Number ACT15\Lucky Number ACT15\obj\Debug\net6.0-windows\Lucky Number ACT15.AssemblyInfoInputs.cache
+C:\dean\School\cst-150\cleaned up\Week 7\Lucky Number ACT15\Lucky Number ACT15\obj\Debug\net6.0-windows\Lucky Number ACT15.AssemblyInfo.cs
+C:\dean\School\cst-150\cleaned up\Week 7\Lucky Number ACT15\Lucky Number ACT15\obj\Debug\net6.0-windows\Lucky Number ACT15.csproj.CoreCompileInputs.cache
+C:\dean\School\cst-150\cleaned up\Week 7\Lucky Number ACT15\Lucky Number ACT15\obj\Debug\net6.0-windows\Lucky Number ACT15.dll
+C:\dean\School\cst-150\cleaned up\Week 7\Lucky Number ACT15\Lucky Number ACT15\obj\Debug\net6.0-windows\refint\Lucky Number ACT15.dll
+C:\dean\School\cst-150\cleaned up\Week 7\Lucky Number ACT15\Lucky Number ACT15\obj\Debug\net6.0-windows\Lucky Number ACT15.pdb
+C:\dean\School\cst-150\cleaned up\Week 7\Lucky Number ACT15\Lucky Number ACT15\obj\Debug\net6.0-windows\Lucky Number ACT15.genruntimeconfig.cache
+C:\dean\School\cst-150\cleaned up\Week 7\Lucky Number ACT15\Lucky Number ACT15\obj\Debug\net6.0-windows\ref\Lucky Number ACT15.dll
+C:\dean\School\cst-150\cleaned up\Week 7\Lucky Number ACT15\Lucky Number ACT15\obj\Debug\net6.0-windows\Lucky_Number_ACT15.Form2.resources
+C:\dean\School\cst-150\cleaned up\Week 7\Lucky Number ACT15\Lucky Number ACT15\obj\Debug\net6.0-windows\Lucky_Number_ACT15.Properties.Resources.resources
